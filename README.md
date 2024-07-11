@@ -24,5 +24,5 @@ User Configuration > Administrative Templates > System
 
 enable Prevent access to the command prompt
 
-Windows Terminal
+install Windows Terminal
 https://apps.microsoft.com/detail/9n0dx20hk701
