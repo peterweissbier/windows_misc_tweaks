@@ -13,5 +13,5 @@ browser.translations.automaticallyPopup
 
 browser.translations.enable
 
-alternative less intrustive plugin: 
+alternative less intrusive plugin: 
 https://github.com/FilipePS/Traduzir-paginas-web
