@@ -10,6 +10,7 @@
 about:config and set both to false
 
 browser.translations.automaticallyPopup
+
 browser.translations.enable
 
 alternative less intrustive plugin: 
