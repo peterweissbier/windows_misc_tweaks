@@ -26,3 +26,7 @@ enable Prevent access to the command prompt
 
 install Windows Terminal
 https://apps.microsoft.com/detail/9n0dx20hk701
+
+## windows media player plus plugin
+
+https://bmproductions.fixnum.org/index.htm?https://bmproductions.fixnum.org/wmpplus/
